@@ -1,0 +1,13 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1771498190
+mazmorra_real.tscn::PackedScene::4779951932469165956::1771497174::0::1::::<><><>0<>0<><>::
+::res://addons/::1771494331
+::res://addons/godot-git-plugin/::1771495147
+::res://addons/godot-git-plugin/windows/::1771495147
+::res://floor_real/::1771497576
+floor_real.tscn::PackedScene::9102285195150676283::1771497576::0::1::::<><><>0<>0<><>::uid://deoim4how0udd::::res://floor_real/img/mazmorra_real.jpg
+::res://floor_real/img/::1771497498
+mazmorra_real.jpg::CompressedTexture2D::7469427414314546273::1771497497::1771497498::1::::<><><>0<>0<>229b14da19919c2ff2b1601979728571<>res://.godot/imported/mazmorra_real.jpg-0eaab81ee86510f87ae5e5fb0f258df3.ctex::
+::res://plataformas/::1771498196
+::res://plataformas/img/::1771498222
+plataformas.png::CompressedTexture2D::7845112285562824852::1771498222::1771498223::1::::<><><>0<>0<>a0e19ad39752b7448de796ff5535db13<>res://.godot/imported/plataformas.png-d955dd73b8c0e7e3999fab31a8af5605.ctex::
