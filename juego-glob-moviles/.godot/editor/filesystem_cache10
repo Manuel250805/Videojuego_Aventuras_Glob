@@ -1,0 +1,16 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1771503170
+icon.svg::CompressedTexture2D::819886872959269739::1771494308::1771494311::1::::<><><>0<>0<>013b1ebdf96e07d5c2527e12495f2e4a<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+::res://addons/::1771494333
+::res://addons/godot-git-plugin/::1771502955
+::res://addons/godot-git-plugin/windows/::1771502955
+::res://fondo/::1771502990
+fondo.tscn::PackedScene::7672057781678998610::1771502990::0::1::::<><><>0<>0<><>::uid://cumrat7l8cv8i::::res://plataformas/imgComunes/Gemini_Generated_Image_uip99cuip99cuip9 (2).png
+::res://fondo/img/::1771501274
+::res://moneda/::1771501332
+GameManager.gd::GDScript::4666000795274475321::1771499085::0::1::::<>Node<><>0<>0<><>::
+Moneda.gd::GDScript::7642693524277543408::1771499085::0::1::::<>Area2D<><>0<>0<><>::
+moneda.tscn::PackedScene::5399133175417298406::1771501332::0::1::::<><><>0<>0<><>::uid://dg5gbs4rejoy7::::res://moneda/Moneda.gd<>res://fondo/player/img/moneda.png
+::res://plataformas/::1771501320
+::res://plataformas/imgComunes/::1771501906
+Gemini_Generated_Image_uip99cuip99cuip9 (2).png::CompressedTexture2D::6202424009993983806::1771501889::1771501893::1::::<><><>0<>0<>9e97a9c5e3addced18ee20767aa08e47<>res://.godot/imported/Gemini_Generated_Image_uip99cuip99cuip9 (2).png-98f55aa3f9303ef6e5bca2be6b660bcb.ctex::
